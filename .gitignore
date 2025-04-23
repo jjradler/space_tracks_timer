@@ -1,0 +1,7 @@
+# .gitignore for Python project
+
+.idea/
+*.pyc
+*.egg
+*.egg.i*
+venv/
